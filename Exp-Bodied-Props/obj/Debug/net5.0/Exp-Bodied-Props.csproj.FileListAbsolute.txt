@@ -1,0 +1,16 @@
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\bin\Debug\net5.0\Exp-Bodied-Props.exe
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\bin\Debug\net5.0\Exp-Bodied-Props.deps.json
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\bin\Debug\net5.0\Exp-Bodied-Props.runtimeconfig.json
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\bin\Debug\net5.0\Exp-Bodied-Props.runtimeconfig.dev.json
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\bin\Debug\net5.0\Exp-Bodied-Props.dll
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\bin\Debug\net5.0\ref\Exp-Bodied-Props.dll
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\bin\Debug\net5.0\Exp-Bodied-Props.pdb
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\obj\Debug\net5.0\Exp-Bodied-Props.csprojAssemblyReference.cache
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\obj\Debug\net5.0\Exp-Bodied-Props.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\obj\Debug\net5.0\Exp-Bodied-Props.AssemblyInfoInputs.cache
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\obj\Debug\net5.0\Exp-Bodied-Props.AssemblyInfo.cs
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\obj\Debug\net5.0\Exp-Bodied-Props.csproj.CoreCompileInputs.cache
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\obj\Debug\net5.0\Exp-Bodied-Props.dll
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\obj\Debug\net5.0\ref\Exp-Bodied-Props.dll
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\obj\Debug\net5.0\Exp-Bodied-Props.pdb
+C:\Users\LeanED\Development\C Sharp Practice\Exp-Bodied-Props\obj\Debug\net5.0\Exp-Bodied-Props.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\obj\Debug\net5.0\GenerateNames.csprojAssemblyReference.cache
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\obj\Debug\net5.0\GenerateNames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\obj\Debug\net5.0\GenerateNames.AssemblyInfoInputs.cache
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\obj\Debug\net5.0\GenerateNames.AssemblyInfo.cs
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\obj\Debug\net5.0\GenerateNames.csproj.CoreCompileInputs.cache
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\bin\Debug\net5.0\GenerateNames.exe
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\bin\Debug\net5.0\GenerateNames.deps.json
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\bin\Debug\net5.0\GenerateNames.runtimeconfig.json
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\bin\Debug\net5.0\GenerateNames.runtimeconfig.dev.json
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\bin\Debug\net5.0\GenerateNames.dll
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\bin\Debug\net5.0\ref\GenerateNames.dll
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\bin\Debug\net5.0\GenerateNames.pdb
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\obj\Debug\net5.0\GenerateNames.dll
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\obj\Debug\net5.0\ref\GenerateNames.dll
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\obj\Debug\net5.0\GenerateNames.pdb
+C:\Users\LeanED\Development\C Sharp Practice\GenerateNames\obj\Debug\net5.0\GenerateNames.genruntimeconfig.cache

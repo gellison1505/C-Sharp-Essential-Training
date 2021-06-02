@@ -1,0 +1,5 @@
+C:\Users\LeanED\Development\C Sharp Practice\obj\Debug\net5.0\C Sharp Practice.csprojAssemblyReference.cache
+C:\Users\LeanED\Development\C Sharp Practice\obj\Debug\net5.0\C Sharp Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LeanED\Development\C Sharp Practice\obj\Debug\net5.0\C Sharp Practice.AssemblyInfoInputs.cache
+C:\Users\LeanED\Development\C Sharp Practice\obj\Debug\net5.0\C Sharp Practice.AssemblyInfo.cs
+C:\Users\LeanED\Development\C Sharp Practice\obj\Debug\net5.0\C Sharp Practice.csproj.CoreCompileInputs.cache

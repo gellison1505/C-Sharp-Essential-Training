@@ -1,0 +1,26 @@
+C:\Users\LeanED\Development\C Sharp\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.csprojAssemblyReference.cache
+C:\Users\LeanED\Development\C Sharp\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.AssemblyInfoInputs.cache
+C:\Users\LeanED\Development\C Sharp\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.AssemblyInfo.cs
+C:\Users\LeanED\Development\C Sharp\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.csproj.CoreCompileInputs.cache
+C:\Users\LeanED\Development\C Sharp\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.exe
+C:\Users\LeanED\Development\C Sharp\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.deps.json
+C:\Users\LeanED\Development\C Sharp\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.runtimeconfig.json
+C:\Users\LeanED\Development\C Sharp\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.runtimeconfig.dev.json
+C:\Users\LeanED\Development\C Sharp\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.dll
+C:\Users\LeanED\Development\C Sharp\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.pdb
+C:\Users\LeanED\Development\C Sharp\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.dll
+C:\Users\LeanED\Development\C Sharp\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.pdb
+C:\Users\LeanED\Development\C Sharp\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.genruntimeconfig.cache
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.exe
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.deps.json
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.runtimeconfig.json
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.runtimeconfig.dev.json
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.dll
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\bin\Debug\netcoreapp3.1\GenericListT.pdb
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.csprojAssemblyReference.cache
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.AssemblyInfoInputs.cache
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.AssemblyInfo.cs
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.csproj.CoreCompileInputs.cache
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.dll
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.pdb
+C:\Users\LeanED\Development\C Sharp Practice\GenericListT\obj\Debug\netcoreapp3.1\GenericListT.genruntimeconfig.cache
